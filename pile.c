@@ -1,4 +1,4 @@
-// file fifo first in first out 
+// pile last in first out 
 #include<stdio.h>
 #include<stdlib.h>
 typedef struct Element
