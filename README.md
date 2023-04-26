@@ -1,0 +1,3 @@
+# c_pointers
+## file.c
+Ce code en langage C implémente une structure de données de file d'attente (FIFO : Premier Entré, Premier Sorti) à l'aide d'une liste chaînée. Le code fournit des fonctions pour initialiser la file d'attente, ajouter des éléments à la fin de la file d'attente, supprimer des éléments de la tête de la file d'attente et afficher le contenu de la file d'attente. La fonction principale initialise une file d'attente, ajoute plusieurs éléments, affiche la file d'attente, la vide en retirant les éléments un par un et affiche à nouveau la file d'attente vide. Le code est bien commenté pour faciliter la compréhension de chaque fonction et son rôle dans la mise en œuvre de la file d'attente.
